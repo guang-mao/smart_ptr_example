@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/layout.dir/test.cpp.o  -o layout -rdynamic 
